@@ -42,31 +42,31 @@ Welcome to our GitHub! AristoByte is a forward-thinking technology company dedic
   </li>
 </ul>
 
-<!-- ## Featured projects
+## Featured projects
 
 Here are some featured projects that showcase my skills in web development and my commitment to clean, maintainable code:
 
 <div align="center">
-  <a href="https://github.com/aristobyte/scss-to-css-converter" target="_blank">
-    <img alt="SCSS to CSS Converter" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte&repo=scss-to-css-converter&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
+  <a href="https://github.com/aristobyte-team/www.aristobyte.com" target="_blank">
+    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-team&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
   </a>
-  <a href="https://github.com/aristobyte/ios-weather-clone" target="_blank">
-    <img alt="Weather App" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte&repo=weather-app&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/aristobyte/spotify-clone" target="_blank">
-    <img alt="Spotify Clone" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte&repo=spotify-clone&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
-  </a>
-  <a href="https://github.com/aristobyte/3d-portfolio" target="_blank">
-    <img alt="3D Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte&repo=3d-portfolio&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
+  <a href="https://github.com/aristobyte-team/www.aristobyte.com" target="_blank">
+    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-team&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/aristobyte/novelex-consulting-llc" target="_blank">
-    <img alt="Novelex Consulting LLC" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte&repo=novelex-consulting-llc&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
+  <a href="https://github.com/aristobyte-team/www.aristobyte.com" target="_blank">
+    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-team&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
   </a>
-</div> -->
+  <a href="https://github.com/aristobyte-team/www.aristobyte.com" target="_blank">
+    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-team&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/aristobyte-team/www.aristobyte.com" target="_blank">
+    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-team&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
+  </a>
+</div>
 
 ## Tech toolbox
 
