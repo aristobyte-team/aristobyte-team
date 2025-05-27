@@ -1,9 +1,9 @@
 ---
-name: Bug
-about: A bug to be fixed
+name: User Story
+about: New feature to be added
 title: ""
-labels: "bug"
-type: "Bug"
+labels: "user-story"
+type: "User Story"
 assignees: "aristobyte"
 ---
 

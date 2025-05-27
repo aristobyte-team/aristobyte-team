@@ -1,8 +1,9 @@
 ---
-name: Assets
-about: Assets to be created/added (.mp4, .png, .svg, .mp3...)
+name: Tech Depth
+about: Code improvement with no big user facing changes
 title: ""
-labels: "assets"
+type: "Tech Depth"
+labels: "tech-depth"
 assignees: "aristobyte"
 ---
 
