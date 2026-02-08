@@ -47,24 +47,24 @@ Welcome to our GitHub! AristoByte is a forward-thinking technology company dedic
 Here are some featured projects that showcase my skills in web development and my commitment to clean, maintainable code:
 
 <div align="center">
-  <a href="https://github.com/aristobyte-team/www.aristobyte.com" target="_blank">
-    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-team&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
+  <a href="https://github.com/aristobyte-ui/www.aristobyte.com" target="_blank">
+    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-ui&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
   </a>
-  <a href="https://github.com/aristobyte-team/www.aristobyte.com" target="_blank">
-    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-team&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/aristobyte-team/www.aristobyte.com" target="_blank">
-    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-team&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
-  </a>
-  <a href="https://github.com/aristobyte-team/www.aristobyte.com" target="_blank">
-    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-team&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
+  <a href="https://github.com/aristobyte-ui/www.aristobyte.com" target="_blank">
+    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-ui&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/aristobyte-team/www.aristobyte.com" target="_blank">
-    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-team&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
+  <a href="https://github.com/aristobyte-ui/www.aristobyte.com" target="_blank">
+    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-ui&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
+  </a>
+  <a href="https://github.com/aristobyte-ui/www.aristobyte.com" target="_blank">
+    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-ui&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/aristobyte-ui/www.aristobyte.com" target="_blank">
+    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-ui&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
   </a>
 </div>
 
