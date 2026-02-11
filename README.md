@@ -14,9 +14,10 @@ Check our website:
 
 Welcome to our GitHub! AristoByte is a forward-thinking technology company dedicated to building innovative, scalable products for individuals and enterprises. Our stack includes **React**, **Node.js**, **TypeScript**, and cloud-native technologies — delivering powerful tools at the intersection of performance and design.
 
-<img align="center" alt="AristoByte GitHub Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=aristobyte&bg_color=000000&color=e09149&border_color=d14839&line=d14839&point=fab651&title_color=ccd6f6&custom_title=Contributions%20-%20aristobyte&area_color=89d0c2f3&area=true" />
+<img align="center" alt="AristoByte Team GitHub Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=aristobyte-team&bg_color=000000&color=e09149&border_color=d14839&line=d14839&point=fab651&title_color=ccd6f6&custom_title=Contributions%20-%20aristobyte&area_color=89d0c2f3&area=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aristobyte&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_icons=true&custom_title=Stats%20-%20aristobyte" width=50%>
+<img align="center" alt="AristoByte Organisation" src="https://badges.aristobyte.com/api/org?org=aristobyte" />
+<img align="center" alt="AristoByte UI Organisation" src="https://badges.aristobyte.com/api/org?org=aristobyte-ui" />
 
 <ul>
   <li>
