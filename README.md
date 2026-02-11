@@ -28,7 +28,7 @@ Each solution is engineered for scalability, performance, and seamless integrati
   </a>
 </p>
 
-## [AristoByte - GitHub Organisation](https://github.com/aristobyte)
+## AristoByte - [GitHub Organisation](https://github.com/aristobyte)
 
 <p align="center" >
   <a href="https://github.com/aristobyte" target="_blank">
@@ -36,7 +36,7 @@ Each solution is engineered for scalability, performance, and seamless integrati
   </a>
 </p>
 
-## [AristoByte UI - GitHub Organisation](https://github.com/aristobyte-ui)
+## AristoByte UI - [GitHub Organisation](https://github.com/aristobyte-ui)
 
 <p align="center" >
   <a href="https://github.com/aristobyte-ui" target="_blank">
