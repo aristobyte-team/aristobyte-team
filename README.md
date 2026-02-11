@@ -4,16 +4,16 @@ Welcome to our GitHub! AristoByte is a forward-thinking technology company dedic
 
 <p align="center">
   <a href="https://aristobyte.com" target="_blank">
-    <img align="center" src="./assets/aristobyte.png" alt="AristoByte - Official Website" />
+    <img width="200" align="center" src="./assets/aristobyte.png" alt="AristoByte - Official Website" />
   </a>
   <a href="https://ui.aristobyte.com" target="_blank">
-    <img align="center" src="./assets/aristobyte.png" alt="AristoByte UI - Official Website" />
+    <img width="200" align="center" src="./assets/aristobyte-ui.png" alt="AristoByte UI - Official Website" />
   </a>
   <a href="https://badges,aristobyte.com" target="_blank">
-    <img align="center" src="./assets/aristo-badges.png" alt="AristoBadges - Official Website" />
+    <img width="200" align="center" src="./assets/aristo-badges.png" alt="AristoBadges - Official Website" />
   </a>
   <a href="https://www.npmjs.com/package/@aristobyte-ui/cli" target="_blank">
-    <img align="center" src="./assets/aristobyte-ui-cli.png" alt="AristoByte UI CLI - NPM" />
+    <img width="200" align="center" src="./assets/aristobyte-ui-cli.png" alt="AristoByte UI CLI - NPM" />
   </a>
 </p>
 
