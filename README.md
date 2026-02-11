@@ -1,18 +1,27 @@
-# Welcome to AristoByte
+# Welcome to AristoByte Team
+
+Welcome to our GitHub! AristoByte is a forward-thinking technology company dedicated to building innovative, scalable products for individuals and enterprises, delivering powerful tools at the intersection of performance and design.
 
 <p align="center">
-Check our website:
   <a href="https://aristobyte.com" target="_blank">
-    www.aristobyte.com
+    <img align="center" src="./assets/aristobyte.png" alt="AristoByte - Official Website" />
+  </a>
+  <a href="https://ui.aristobyte.com" target="_blank">
+    <img align="center" src="./assets/aristobyte.png" alt="AristoByte UI - Official Website" />
+  </a>
+  <a href="https://badges,aristobyte.com" target="_blank">
+    <img align="center" src="./assets/aristo-badges.png" alt="AristoBadges - Official Website" />
+  </a>
+  <a href="https://www.npmjs.com/package/@aristobyte-ui/cli" target="_blank">
+    <img align="center" src="./assets/aristobyte-ui-cli.png" alt="AristoByte UI CLI - NPM" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://aristobyte.com" target="_blank">
     <img align="center" src="./assets/banner.png" alt="Official Website" />
   </a>
 </p>
-
-Welcome to our GitHub! AristoByte is a forward-thinking technology company dedicated to building innovative, scalable products for individuals and enterprises. Our stack includes **React**, **Node.js**, **TypeScript**, and cloud-native technologies — delivering powerful tools at the intersection of performance and design.
 
 <p align="center" >
   <img alt="AristoByte Team GitHub Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=aristobyte-team&bg_color=000000&color=e09149&border_color=d14839&line=d14839&point=fab651&title_color=ccd6f6&custom_title=Contributions%20-%20aristobyte&area_color=89d0c2f3&area=true" />
@@ -28,6 +37,8 @@ Welcome to our GitHub! AristoByte is a forward-thinking technology company dedic
 <p align="center" >
   <img align="center" alt="AristoByte UI Organisation" src="https://badges.aristobyte.com/api/org?org=aristobyte-ui" />
 </p>
+
+## About
 
 <ul>
   <li>
