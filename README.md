@@ -1,6 +1,17 @@
 # Welcome to AristoByte Team
 
+<p align="center">
+  <a href="https://aristobyte.com" target="_blank">
+    <img align="center" src="./assets/banner.png" alt="Official Website" />
+  </a>
+</p>
+
 Welcome to our GitHub! AristoByte is a forward-thinking technology company dedicated to building innovative, scalable products for individuals and enterprises, delivering powerful tools at the intersection of performance and design.
+
+## 🌐 AristoByte Product Suite
+
+Below are our primary product pillars — from our corporate platform to developer tooling.  
+Each solution is engineered for scalability, performance, and seamless integration.
 
 <p align="center">
   <a href="https://aristobyte.com" target="_blank">
@@ -17,16 +28,6 @@ Welcome to our GitHub! AristoByte is a forward-thinking technology company dedic
   </a>
 </p>
 
-<p align="center">
-  <a href="https://aristobyte.com" target="_blank">
-    <img align="center" src="./assets/banner.png" alt="Official Website" />
-  </a>
-</p>
-
-<p align="center" >
-  <img alt="AristoByte Team GitHub Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=aristobyte-team&bg_color=000000&color=e09149&border_color=d14839&line=d14839&point=fab651&title_color=ccd6f6&custom_title=Contributions%20-%20aristobyte&area_color=89d0c2f3&area=true" />
-</p>
-
 ## AristoByte - GitHub Organisation
 
 <p align="center" >
@@ -34,8 +35,15 @@ Welcome to our GitHub! AristoByte is a forward-thinking technology company dedic
 </p>
 
 ## AristoByte UI - GitHub Organisation
+
 <p align="center" >
   <img align="center" alt="AristoByte UI Organisation" src="https://badges.aristobyte.com/api/org?org=aristobyte-ui" />
+</p>
+
+## AristoByte Team - Contributions
+
+<p align="center" >
+  <img alt="AristoByte Team GitHub Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=aristobyte-team&bg_color=000000&color=e09149&border_color=d14839&line=d14839&point=fab651&title_color=ccd6f6&area_color=89d0c2f3&area=true" />
 </p>
 
 ## About
