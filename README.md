@@ -28,16 +28,20 @@ Each solution is engineered for scalability, performance, and seamless integrati
   </a>
 </p>
 
-## AristoByte - GitHub Organisation
+## [AristoByte - GitHub Organisation](https://github.com/aristobyte)
 
 <p align="center" >
-  <img align="center" alt="AristoByte Organisation" src="https://badges.aristobyte.com/api/org?org=aristobyte" />
+  <a href="https://github.com/aristobyte" target="_blank">
+    <img align="center" alt="AristoByte Organisation" src="https://badges.aristobyte.com/api/org?org=aristobyte" />
+  </a>
 </p>
 
-## AristoByte UI - GitHub Organisation
+## [AristoByte UI - GitHub Organisation](https://github.com/aristobyte-ui)
 
 <p align="center" >
-  <img align="center" alt="AristoByte UI Organisation" src="https://badges.aristobyte.com/api/org?org=aristobyte-ui" />
+  <a href="https://github.com/aristobyte-ui" target="_blank">
+    <img align="center" alt="AristoByte UI Organisation" src="https://badges.aristobyte.com/api/org?org=aristobyte-ui" />
+  </a>
 </p>
 
 ## AristoByte Team - Contributions
