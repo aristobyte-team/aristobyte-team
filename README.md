@@ -28,7 +28,11 @@ Each solution is engineered for scalability, performance, and seamless integrati
   </a>
 </p>
 
-## AristoByte - [GitHub Organisation](https://github.com/aristobyte)
+## AristoByte - GitHub Organisation
+
+The primary engineering hub for AristoByte’s commercial and open-source initiatives.  
+
+From backend services and serverless infrastructure to full-stack applications, this organisation represents our commitment to performance, maintainability, and long-term scalability.
 
 <p align="center" >
   <a href="https://github.com/aristobyte" target="_blank">
@@ -36,7 +40,11 @@ Each solution is engineered for scalability, performance, and seamless integrati
   </a>
 </p>
 
-## AristoByte UI - [GitHub Organisation](https://github.com/aristobyte-ui)
+## AristoByte UI - GitHub Organisation
+
+The dedicated organisation for AristoByte’s design systems, UI frameworks, and developer tooling.  
+
+Here we build reusable component libraries, CLI utilities, and front-end infrastructure engineered for speed, consistency, and seamless integration across modern frameworks.
 
 <p align="center" >
   <a href="https://github.com/aristobyte-ui" target="_blank">
@@ -75,32 +83,6 @@ Each solution is engineered for scalability, performance, and seamless integrati
     <p>🌍 <strong>User First:</strong> Every product bridges engineering precision with a frictionless user experience to create maximum impact.</p>
   </li>
 </ul>
-
-## Featured projects
-
-Here are some featured projects that showcase my skills in web development and my commitment to clean, maintainable code:
-
-<div align="center">
-  <a href="https://github.com/aristobyte-ui/www.aristobyte.com" target="_blank">
-    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-ui&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
-  </a>
-  <a href="https://github.com/aristobyte-ui/www.aristobyte.com" target="_blank">
-    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-ui&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/aristobyte-ui/www.aristobyte.com" target="_blank">
-    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-ui&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
-  </a>
-  <a href="https://github.com/aristobyte-ui/www.aristobyte.com" target="_blank">
-    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-ui&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/aristobyte-ui/www.aristobyte.com" target="_blank">
-    <img alt="www.aristobyte.com" src="https://github-readme-stats.vercel.app/api/pin/?username=aristobyte-ui&repo=www.aristobyte.com&border_color=d14839&bg_color=000000&text_color=8892b0&icon_color=d14839&title_color=ccd6f6&ring_color=e09149&show_owner=true&description_lines_count=3" width="49%"/>
-  </a>
-</div>
 
 ## Tech toolbox
 
@@ -141,11 +123,6 @@ Here are some featured projects that showcase my skills in web development and m
   <a href="https://sass-lang.com/"><img src="./assets/skills/svg/sass.svg" alt="Sass" height="48px"/></a>
   <a href="https://lesscss.org/"><img src="./assets/skills/svg/less.svg" alt="Less" height="48px"/></a>
   <a href="https://getbootstrap.com/"><img src="./assets/skills/svg/bootstrap.svg" alt="Bootstrap" height="48px"/></a>
-</p>
-
-### Know as well:
-
-<p align="center">
   <a href="https://www.java.com" target="_blank"><img src="./assets/skills/svg/java.svg" alt="Java" height="48px" /></a>
   <a href="https://isocpp.org/" target="_blank"><img src="./assets/skills/svg/cpp.svg" alt="C++" height="48px" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="./assets/skills/svg/csharp.svg" alt="C#s" height="48px" /></a>
@@ -167,11 +144,6 @@ Here are some featured projects that showcase my skills in web development and m
   <a href="https://firebase.google.com/" target="_blank"><img src="./assets/skills/svg/firebase.svg" alt="Firebase" height="48px" /></a>
   <a href="https://www.heroku.com/" target="_blank"><img src="./assets/skills/svg/heroku.svg" alt="Heroku" height="48px" /></a>
   <a href="https://www.netlify.com/" target="_blank"><img src="./assets/skills/svg/netlify.svg" alt="Netlify" height="48px" /></a>
-</p>
-
-### UI related tools:
-
-<p align="center">
   <a href="https://www.blender.org/" target="_blank"><img src="./assets/skills/svg/blender.svg" alt="Blender" height="48px" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="./assets/skills/svg/figma.svg" alt="Figma" height="48px" /></a>
   <a href="https://www.aseprite.org/" target="_blank"><img src="./assets/skills/svg/asperite.svg" alt="Asperite" height="48px" /></a>
@@ -183,19 +155,15 @@ Here are some featured projects that showcase my skills in web development and m
   <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/svg/gimp.svg" alt="Gimp" height="48px" /></a>
 </p>
 
-## Find us
+
+## 🌐 Socials
 
 <p align="left">
-   <!-- <a href="https://www.linkedin.com/in/aristobyte/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
+   <a href="https://github.com/aristobyte"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+   <a href="https://stackoverflow.com/users/30507294/aristobyte"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/></a>
    <a href="https://instagram.com/aristo_byte"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>   
-   <a href="https://facebook.com/aristobyte"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>   
-   <a href="https://x.com/aristo_byte"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>   
-   <a href="https://wa.me/48451652749"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png"/></a>   
+   <a href="https://www.linkedin.com/company/aristobyte/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+   <a href="https://www.youtube.com/@aristobyte"><img src="https://img.icons8.com/fluency/48/000000/youtube.png"/></a>
    <a href="mailto:info@aristobyte.com"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/></a>   
-   <a href="https://www.youtube.com/@aristobyte"><img src="https://img.icons8.com/fluency/48/000000/youtube.png"/></a>   
+   <a href="https://www.patreon.com/c/aristobyte"><img src="https://img.icons8.com/fluency/48/000000/patreon.png"/></a>
 </p>
-
-<a href="https://github.com/aristobyte/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=aristobyte">
-</a>
-<a href="https://github.com/aristobyte?tab=followers"><img src="https://img.shields.io/github/followers/aristobyte?label=Followers&style=social" alt="GitHub Badge"></a>
