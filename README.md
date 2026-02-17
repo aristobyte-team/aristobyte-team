@@ -92,89 +92,89 @@ Here we build reusable component libraries, CLI utilities, and front-end infrast
 ### Recently used languages/technologies/tools:
 
 <p align="center">
-  <a href="https://reactjs.org/"><img src="./assets/skills/svg/react.svg" alt="React" height="48px"/></a>
-  <a href="https://redux.js.org"><img src="./assets/skills/svg/redux.svg" alt="Redux" height="48px" /></a>
-  <a href="https://expo.dev/"><img src="./assets/skills/svg/expo.svg" alt="Expo Go" height="48px" /></a>
-  <a href="https://nextjs.org/"><img src="./assets/skills/svg/nextjs.svg" alt="Next.js" height="48px" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="./assets/skills/svg/typescript.svg" alt="TypeScript" height="48px" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/skills/svg/javascript.svg" alt="JavaScript" height="48px" /></a>
-  <a href="https://babeljs.io/docs/"><img src="./assets/skills/svg/babel.svg" height="48px" /></a>
-  <a href="https://threejs.org/"><img src="./assets/skills/svg/threejs.svg" alt="Three.js" height="48px"/></a>
-  <a href="https://nodejs.org/"><img src="./assets/skills/svg/nodejs.svg" alt="Node.js" height="48px" /></a>
-  <a href="https://expressjs.com/"><img src="./assets/skills/svg/express.svg" alt="Express.js" height="48px" /></a>
-  <a href="https://graphql.org/"><img src="./assets/skills/svg/graphql.svg" alt="GraphQL" height="48px" /></a>
-  <a href="https://restfulapi.net/"><img src="./assets/skills/svg/restapi.svg" alt="REST API" height="48px" /></a>
-  <a href="https://webpack.js.org/"><img src="./assets/skills/svg/webpack.svg" alt="Webpack" height="48px" /></a>
-  <a href="https://jestjs.io/"><img src="./assets/skills/svg/jest.svg" alt="Jest" height="48px"/></a>
-  <a href="https://www.jenkins.io/"><img src="./assets/skills/svg/jenkins.svg" alt="Jenkins" height="48px"/></a>
-  <a href="https://aws.amazon.com/"><img src="./assets/skills/svg/aws.svg" alt="AWS" height="48px" /></a>
-  <a href="https://www.terraform.io/"><img src="./assets/skills/svg/terraform.svg" alt="Terraform" height="48px" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="./assets/skills/svg/bash.svg" alt="Bash" height="48px" /></a>
-  <a href="https://git-scm.com/"><img src="./assets/skills/svg/git.svg" alt="Git" height="48px" /></a>
-  <a href="https://github.com/"><img src="./assets/skills/svg/github.svg" alt="GitHub" height="48px" /></a>
-  <a href="https://about.gitlab.com/"><img src="./assets/skills/svg/gitlab.svg" alt="GitLab" height="48px" /></a>
-  <a href="https://newrelic.com/"><img src="./assets/skills/svg/newrelic.svg" alt="New Relic" height="48px"/></a>
-  <a href="https://www.splunk.com/"><img src="./assets/skills/svg/splunk.svg" alt="Splunk" height="48px" /></a>
-  <a href="https://www.postman.com/"><img src="./assets/skills/svg/postman.svg" alt="Postman" height="48px" /></a>
-  <a href="https://www.docker.com/"><img src="./assets/skills/svg/docker.svg" alt="Docker" height="48px" /></a>
-  <a href="https://yarnpkg.com/"><img src="./assets/skills/svg/yarn.svg" alt="Yarn" height="48px" /></a>
-  <a href="https://www.npmjs.com/"><img src="./assets/skills/svg/npm.svg" alt="NPM" height="48px" /></a>
-  <a href="https://contentstack.com/"><img src="./assets/skills/svg/contentstack.svg" alt="Contentstack" height="48px"/></a>
-  <a href="https://contentful.com/"><img src="./assets/skills/svg/contentful.svg" alt="Contentful" height="48px"/></a>
-  <a href="https://html.com/"><img src="./assets/skills/svg/html.svg" alt="HTML5" height="48px"/></a>
-  <a href="https://css3.com/"><img src="./assets/skills/svg/css.svg" alt="CSS3" height="48px" /></a>
-  <a href="https://sass-lang.com/"><img src="./assets/skills/svg/sass.svg" alt="Sass" height="48px"/></a>
-  <a href="https://lesscss.org/"><img src="./assets/skills/svg/less.svg" alt="Less" height="48px"/></a>
-  <a href="https://getbootstrap.com/"><img src="./assets/skills/svg/bootstrap.svg" alt="Bootstrap" height="48px"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="./assets/skills/svg/java.svg" alt="Java" height="48px" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="./assets/skills/svg/cpp.svg" alt="C++" height="48px" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="./assets/skills/svg/csharp.svg" alt="C#s" height="48px" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="./assets/skills/svg/dotnet.svg" alt=".NET" height="48px" /></a>
-  <a href="https://unity.com/" target="_blank"><img src="./assets/skills/svg/unity.svg" alt="Unity" height="48px" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="./assets/skills/svg/python.svg" alt="Python" height="48px" /></a>
-  <a href="https://www.pygame.org/" target="_blank"><img src="./assets/skills/svg/pygame.svg" alt="PyGame" height="48px" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="./assets/skills/svg/pandas.svg" alt="Pandas" height="48px" /></a>
-  <a href="https://numpy.org/" target="_blank"><img src="./assets/skills/svg/numpy.svg" alt="Numpy" height="48px" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="./assets/skills/svg/django.svg" alt="Django" height="48px" /></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="./assets/skills/svg/jupyter.svg" alt="Jupyter Notebook" height="48px" /></a>
-  <a href="https://www.latex-project.org/" target="_blank"><img src="./assets/skills/svg/latex.svg" alt="LaTeX" height="48px" /></a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="./assets/skills/svg/matlab.svg" alt="MatLab" height="48px" /></a>
-  <a href="https://www.antlr.org/" target="_blank"><img src="./assets/skills/svg/antlr.svg" alt="ANTLR" height="48px" /></a>
-  <a href="https://webdriver.io/" target="_blank"><img src="./assets/skills/svg/webdriverio.svg" alt="WebDriverIO" height="48px" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="./assets/skills/svg/postgresql.svg" alt="PostgreSQL" height="48px" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="./assets/skills/svg/mongodb.svg" alt="MongoDB" height="48px" /></a>
-  <a href="https://www.overleaf.com/" target="_blank"><img src="./assets/skills/svg/overleaf.svg" alt="Overleaf" height="48px" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="./assets/skills/svg/firebase.svg" alt="Firebase" height="48px" /></a>
-  <a href="https://www.heroku.com/" target="_blank"><img src="./assets/skills/svg/heroku.svg" alt="Heroku" height="48px" /></a>
-  <a href="https://www.netlify.com/" target="_blank"><img src="./assets/skills/svg/netlify.svg" alt="Netlify" height="48px" /></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="./assets/skills/svg/blender.svg" alt="Blender" height="48px" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="./assets/skills/svg/figma.svg" alt="Figma" height="48px" /></a>
-  <a href="https://www.aseprite.org/" target="_blank"><img src="./assets/skills/svg/asperite.svg" alt="Asperite" height="48px" /></a>
-  <a href="https://www.adobe.com/products/photoshop/" target="_blank"><img src="./assets/skills/svg/adobe-photoshop.svg" alt="Adobe Photoshop" height="48px" /></a>
-  <a href="https://lightroom.adobe.com/" target="_blank"><img src="./assets/skills/svg/adobe-lightroom.svg" alt="Adobe Lightroom" height="48px" /></a>
-  <a href="https://illustrator.adobe.com/" target="_blank"><img src="./assets/skills/svg/adobe-illustrator.svg" alt="Adobe Illustrator" height="48px" /></a>
-  <a href="https://www.adobe.com/pl/products/premiere/" target="_blank"><img src="./assets/skills/svg/adobe-premiere.svg" alt="Adobe Premiere" height="48px" /></a>
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank"><img src="./assets/skills/svg/davinci.svg" alt="Davinci Resolve" height="48px" /></a>
-  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/svg/gimp.svg" alt="Gimp" height="48px" /></a>
-  <a href="https://openai.com/api/" target="_blank"><img src="./assets/skills/png/open-api.png" alt="Open AI API" height="48px" /></a>
-  <a href="https://github.com/features/copilot" target="_blank"><img src="./assets/skills/png/github-copilot.png" alt="GitHub Copilot" height="48px" /></a>
-  <a href="https://cursor.com/" target="_blank"><img src="./assets/skills/png/cursor.png" alt="Cursor" height="48px" /></a>
-  <a href="https://claude.ai/" target="_blank"><img src="./assets/skills/png/claude.jpeg" alt="Claud AI" height="48px" /></a>
-  <a href="https://www.perplexity.ai/" target="_blank"><img src="./assets/skills/png/perplexity.png" alt="Perplexity" height="48px" /></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="./assets/skills/png/langchain.png" alt="Lang Chain" height="48px" /></a>
-  <a href="https://ollama.com/" target="_blank"><img src="./assets/skills/png/ollama.png" alt="Ollama" height="48px" /></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="./assets/skills/svg/hugging-face.svg" alt="Hugging Face" height="48px" /></a>
-  <a href="https://ai-sdk.dev/" target="_blank"><img src="./assets/skills/png/vercel-ai-sdk.png" alt="Vercel AI SDK" height="48px" /></a>
-  <a href="https://www.swift.org/" target="_blank"><img src="./assets/skills/png/swift.png" alt="Swift" height="48px" /></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="./assets/skills/png/kotlin.png" alt="Kotlin" height="48px" /></a>
-  <a href="https://vite.dev/" target="_blank"><img src="./assets/skills/png/vite.png" alt="Vite" height="48px" /></a>
-  <a href="https://pnpm.io/" target="_blank"><img src="./assets/skills/png/pnpm.png" alt="Pnpm" height="48px" /></a>
-  <a href="https://bun.com/" target="_blank"><img src="./assets/skills/png/bun.png" alt="Bun" height="48px" /></a>
-  <a href="https://turborepo.dev/" target="_blank"><img src="./assets/skills/png/turborepo.jpeg" alt="Turborepo" height="48px" /></a>
-  <a href="https://playwright.dev/" target="_blank"><img src="./assets/skills/svg/playwright.svg" alt="Playwright" height="48px" /></a>
-  <a href="https://www.cypress.io/" target="_blank"><img src="./assets/skills/svg/cypress.svg" alt="Cypress" height="48px" /></a>
-  <a href="https://vitest.dev/" target="_blank"><img src="./assets/skills/png/vitest.png" alt="Vitest" height="48px" /></a>
-  <a href="https://gemini.google.com/" target="_blank"><img src="./assets/skills/png/gemini.png" alt="Gemini" height="48px" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/react.svg" alt="React" height="48px" /></a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/redux.svg" alt="Redux" height="48px" /></a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/expo.svg" alt="Expo" height="48px" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/nextjs.svg" alt="Next.js" height="48px" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/typescript.svg" alt="TypeScript" height="48px" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/javascript.svg" alt="JavaScript" height="48px" /></a>
+  <a href="https://babeljs.io/docs/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/babel.svg" alt="Babel" height="48px" /></a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/threejs.svg" alt="Three.js" height="48px" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/nodejs.svg" alt="Node.js" height="48px" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/express.svg" alt="Express.js" height="48px" /></a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/graphql.svg" alt="GraphQL" height="48px" /></a>
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/restapi.svg" alt="REST API" height="48px" /></a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/webpack.svg" alt="Webpack" height="48px" /></a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/jest.svg" alt="Jest" height="48px" /></a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/jenkins.svg" alt="Jenkins" height="48px" /></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/aws.svg" alt="AWS" height="48px" /></a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/terraform.svg" alt="Terraform" height="48px" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/bash.svg" alt="Bash" height="48px" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/git.svg" alt="Git" height="48px" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/github.svg" alt="GitHub" height="48px" /></a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/gitlab.svg" alt="GitLab" height="48px" /></a>
+  <a href="https://newrelic.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/newrelic.svg" alt="New Relic" height="48px" /></a>
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/splunk.svg" alt="Splunk" height="48px" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/postman.svg" alt="Postman" height="48px" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/docker.svg" alt="Docker" height="48px" /></a>
+  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/yarn.svg" alt="Yarn" height="48px" /></a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/npm.svg" alt="NPM" height="48px" /></a>
+  <a href="https://www.contentstack.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/contentstack.svg" alt="Contentstack" height="48px" /></a>
+  <a href="https://www.contentful.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/contentful.svg" alt="Contentful" height="48px" /></a>
+  <a href="https://html.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/html.svg" alt="HTML5" height="48px" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/css.svg" alt="CSS3" height="48px" /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/sass.svg" alt="Sass" height="48px" /></a>
+  <a href="https://lesscss.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/less.svg" alt="Less" height="48px" /></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/bootstrap.svg" alt="Bootstrap" height="48px" /></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/java.svg" alt="Java" height="48px" /></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/cpp.svg" alt="C++" height="48px" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/csharp.svg" alt="C#" height="48px" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/dotnet.svg" alt=".NET" height="48px" /></a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/unity.svg" alt="Unity" height="48px" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/python.svg" alt="Python" height="48px" /></a>
+  <a href="https://www.pygame.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/pygame.svg" alt="PyGame" height="48px" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/pandas.svg" alt="Pandas" height="48px" /></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/numpy.svg" alt="NumPy" height="48px" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/django.svg" alt="Django" height="48px" /></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/jupyter.svg" alt="Jupyter Notebook" height="48px" /></a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/latex.svg" alt="LaTeX" height="48px" /></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/matlab.svg" alt="MATLAB" height="48px" /></a>
+  <a href="https://www.antlr.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/antlr.svg" alt="ANTLR" height="48px" /></a>
+  <a href="https://webdriver.io/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/webdriverio.svg" alt="WebdriverIO" height="48px" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/postgresql.svg" alt="PostgreSQL" height="48px" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/mongodb.svg" alt="MongoDB" height="48px" /></a>
+  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/overleaf.svg" alt="Overleaf" height="48px" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/firebase.svg" alt="Firebase" height="48px" /></a>
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/heroku.svg" alt="Heroku" height="48px" /></a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/netlify.svg" alt="Netlify" height="48px" /></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/blender.svg" alt="Blender" height="48px" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/figma.svg" alt="Figma" height="48px" /></a>
+  <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/asperite.svg" alt="Aseprite" height="48px" /></a>
+  <a href="https://www.adobe.com/products/photoshop/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/adobe-photoshop.svg" alt="Adobe Photoshop" height="48px" /></a>
+  <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/adobe-lightroom.svg" alt="Adobe Lightroom" height="48px" /></a>
+  <a href="https://illustrator.adobe.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/adobe-illustrator.svg" alt="Adobe Illustrator" height="48px" /></a>
+  <a href="https://www.adobe.com/pl/products/premiere/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/adobe-premiere.svg" alt="Adobe Premiere" height="48px" /></a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/davinci.svg" alt="DaVinci Resolve" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/gimp.svg" alt="GIMP" height="48px" /></a>
+  <a href="https://openai.com/api/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/open-api.png" alt="OpenAI API" height="48px" /></a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="./assets/skills/png/github-copilot.png" alt="GitHub Copilot" height="48px" /></a>
+  <a href="https://cursor.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/cursor.png" alt="Cursor" height="48px" /></a>
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/claude.jpeg" alt="Claude AI" height="48px" /></a>
+  <a href="https://www.perplexity.ai/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/perplexity.png" alt="Perplexity" height="48px" /></a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/langchain.png" alt="LangChain" height="48px" /></a>
+  <a href="https://ollama.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/ollama.png" alt="Ollama" height="48px" /></a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/hugging-face.svg" alt="Hugging Face" height="48px" /></a>
+  <a href="https://ai-sdk.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/vercel-ai-sdk.png" alt="Vercel AI SDK" height="48px" /></a>
+  <a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/swift.png" alt="Swift" height="48px" /></a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/kotlin.png" alt="Kotlin" height="48px" /></a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/vite.png" alt="Vite" height="48px" /></a>
+  <a href="https://pnpm.io/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/pnpm.png" alt="pnpm" height="48px" /></a>
+  <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/bun.png" alt="Bun" height="48px" /></a>
+  <a href="https://turborepo.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/turborepo.jpeg" alt="Turborepo" height="48px" /></a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/playwright.svg" alt="Playwright" height="48px" /></a>
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/cypress.svg" alt="Cypress" height="48px" /></a>
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/vitest.png" alt="Vitest" height="48px" /></a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/gemini.png" alt="Gemini" height="48px" /></a>
 </p>
 
 
