@@ -174,7 +174,26 @@ Here we build reusable component libraries, CLI utilities, and front-end infrast
   <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/svg/playwright.svg" alt="Gimp" height="48px" /></a>
   <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/svg/cypress.svg" alt="Gimp" height="48px" /></a>
   <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/vitest.png" alt="Gimp" height="48px" /></a>
-  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/gemini.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/svg/gimp.svg" alt="Gimp" height="48px" /></a>
+  <a href="https://openai.com/api/" target="_blank"><img src="./assets/skills/png/open-api.png" alt="Open AI API" height="48px" /></a>
+  <a href="https://github.com/features/copilot" target="_blank"><img src="./assets/skills/png/github-copilot.png" alt="GitHub Copilot" height="48px" /></a>
+  <a href="https://cursor.com/" target="_blank"><img src="./assets/skills/png/cursor.png" alt="Cursor" height="48px" /></a>
+  <a href="https://claude.ai/" target="_blank"><img src="./assets/skills/png/claude.jpeg" alt="Claud AI" height="48px" /></a>
+  <a href="https://www.perplexity.ai/" target="_blank"><img src="./assets/skills/png/perplexity.png" alt="Perplexity" height="48px" /></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="./assets/skills/png/langchain.png" alt="Lang Chain" height="48px" /></a>
+  <a href="https://ollama.com/" target="_blank"><img src="./assets/skills/png/ollama.png" alt="Ollama" height="48px" /></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="./assets/skills/svg/hugging-face.svg" alt="Hugging Face" height="48px" /></a>
+  <a href="https://ai-sdk.dev/" target="_blank"><img src="./assets/skills/png/vercel-ai-sdk.png" alt="Vercel AI SDK" height="48px" /></a>
+  <a href="https://www.swift.org/" target="_blank"><img src="./assets/skills/png/swift.png" alt="Swift" height="48px" /></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img src="./assets/skills/png/kotlin.png" alt="Kotlin" height="48px" /></a>
+  <a href="https://vite.dev/" target="_blank"><img src="./assets/skills/png/vite.png" alt="Vite" height="48px" /></a>
+  <a href="https://pnpm.io/" target="_blank"><img src="./assets/skills/png/pnpm.png" alt="Pnpm" height="48px" /></a>
+  <a href="https://bun.com/" target="_blank"><img src="./assets/skills/png/bun.png" alt="Bun" height="48px" /></a>
+  <a href="https://turborepo.dev/" target="_blank"><img src="./assets/skills/png/turborepo.jpeg" alt="Turborepo" height="48px" /></a>
+  <a href="https://playwright.dev/" target="_blank"><img src="./assets/skills/svg/playwright.svg" alt="Playwright" height="48px" /></a>
+  <a href="https://www.cypress.io/" target="_blank"><img src="./assets/skills/svg/cypress.svg" alt="Cypress" height="48px" /></a>
+  <a href="https://vitest.dev/" target="_blank"><img src="./assets/skills/png/vitest.png" alt="Vitest" height="48px" /></a>
+  <a href="https://gemini.google.com/" target="_blank"><img src="./assets/skills/png/gemini.png" alt="Gemini" height="48px" /></a>
 </p>
 
 
