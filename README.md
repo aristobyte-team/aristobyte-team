@@ -156,6 +156,25 @@ Here we build reusable component libraries, CLI utilities, and front-end infrast
   <a href="https://www.adobe.com/pl/products/premiere/" target="_blank"><img src="./assets/skills/svg/adobe-premiere.svg" alt="Adobe Premiere" height="48px" /></a>
   <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank"><img src="./assets/skills/svg/davinci.svg" alt="Davinci Resolve" height="48px" /></a>
   <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/svg/gimp.svg" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/open-api.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/github-copilot.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/cursor.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/claude.jpeg" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/perplexity.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/langchain.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/ollama.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/svg/hugging-face.svg" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/vercel-ai-sdk.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/swift.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/kotlin.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/vite.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/pnpm.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/bun.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/turborepo.jpeg" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/svg/playwright.svg" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/svg/cypress.svg" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/vitest.png" alt="Gimp" height="48px" /></a>
+  <a href="https://www.gimp.org/" target="_blank"><img src="./assets/skills/png/gemini.png" alt="Gimp" height="48px" /></a>
 </p>
 
 
