@@ -23,6 +23,9 @@ Each solution is engineered for scalability, performance, and seamless integrati
   <a href="https://badges.aristobyte.com" target="_blank">
     <img width="180" align="center" src="./assets/aristo-badges.png" alt="AristoBadges - Official Website" />
   </a>
+  <a href="https://repo.aristobyte.com" target="_blank">
+    <img width="180" align="center" src="./assets/aristo-repo.png" alt="AristoRepo - Official Website" />
+  </a>
   <a href="https://www.npmjs.com/package/@aristobyte-ui/cli" target="_blank">
     <img width="145" align="center" src="./assets/aristobyte-ui-cli.png" alt="AristoByte UI CLI - NPM" />
   </a>
