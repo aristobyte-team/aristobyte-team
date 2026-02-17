@@ -15,19 +15,19 @@ Each solution is engineered for scalability, performance, and seamless integrati
 
 <p align="center">
   <a href="https://aristobyte.com" target="_blank">
-    <img width="200" align="center" src="./assets/aristobyte.png" alt="AristoByte - Official Website" />
+    <img width="100" align="center" src="./assets/aristobyte.png" alt="AristoByte - Official Website" />
   </a>
   <a href="https://ui.aristobyte.com" target="_blank">
-    <img width="200" align="center" src="./assets/aristobyte-ui.png" alt="AristoByte UI - Official Website" />
+    <img width="100" align="center" src="./assets/aristobyte-ui.png" alt="AristoByte UI - Official Website" />
   </a>
   <a href="https://badges.aristobyte.com" target="_blank">
-    <img width="180" align="center" src="./assets/aristo-badges.png" alt="AristoBadges - Official Website" />
+    <img width="90" align="center" src="./assets/aristo-badges.png" alt="AristoBadges - Official Website" />
   </a>
   <a href="https://repo.aristobyte.com" target="_blank">
-    <img width="180" align="center" src="./assets/aristo-repo.png" alt="AristoRepo - Official Website" />
+    <img width="90" align="center" src="./assets/aristo-repo.png" alt="AristoRepo - Official Website" />
   </a>
   <a href="https://www.npmjs.com/package/@aristobyte-ui/cli" target="_blank">
-    <img width="145" align="center" src="./assets/aristobyte-ui-cli.png" alt="AristoByte UI CLI - NPM" />
+    <img width="77" align="center" src="./assets/aristobyte-ui-cli.png" alt="AristoByte UI CLI - NPM" />
   </a>
 </p>
 
