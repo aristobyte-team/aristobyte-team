@@ -92,7 +92,6 @@ Here we build reusable component libraries, CLI utilities, and front-end infrast
 ### Recently used languages/technologies/tools:
 
 <p align="center">
-  <!-- Frontend Core -->
   <a href="https://html.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/html.svg" alt="HTML5" height="48px" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/css.svg" alt="CSS3" height="48px" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/sass.svg" alt="Sass" height="48px" /></a>
@@ -105,8 +104,6 @@ Here we build reusable component libraries, CLI utilities, and front-end infrast
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/nextjs.svg" alt="Next.js" height="48px" /></a>
   <a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/expo.svg" alt="Expo" height="48px" /></a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/threejs.svg" alt="Three.js" height="48px" /></a>
-
-  <!-- Build & Package -->
   <a href="https://babeljs.io/docs/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/babel.svg" alt="Babel" height="48px" /></a>
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/webpack.svg" alt="Webpack" height="48px" /></a>
   <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/vite.png" alt="Vite" height="48px" /></a>
@@ -115,8 +112,6 @@ Here we build reusable component libraries, CLI utilities, and front-end infrast
   <a href="https://pnpm.io/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/pnpm.png" alt="pnpm" height="48px" /></a>
   <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/bun.png" alt="Bun" height="48px" /></a>
   <a href="https://turborepo.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/turborepo.jpeg" alt="Turborepo" height="48px" /></a>
-
-  <!-- Backend & APIs -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/nodejs.svg" alt="Node.js" height="48px" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/express.svg" alt="Express.js" height="48px" /></a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/graphql.svg" alt="GraphQL" height="48px" /></a>
@@ -124,8 +119,6 @@ Here we build reusable component libraries, CLI utilities, and front-end infrast
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/postman.svg" alt="Postman" height="48px" /></a>
   <a href="https://www.contentful.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/contentful.svg" alt="Contentful" height="48px" /></a>
   <a href="https://www.contentstack.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/contentstack.svg" alt="Contentstack" height="48px" /></a>
-
-  <!-- Databases & Data -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/postgresql.svg" alt="PostgreSQL" height="48px" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/mongodb.svg" alt="MongoDB" height="48px" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/python.svg" alt="Python" height="48px" /></a>
@@ -138,8 +131,6 @@ Here we build reusable component libraries, CLI utilities, and front-end infrast
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/latex.svg" alt="LaTeX" height="48px" /></a>
   <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/overleaf.svg" alt="Overleaf" height="48px" /></a>
   <a href="https://www.antlr.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/antlr.svg" alt="ANTLR" height="48px" /></a>
-
-  <!-- Languages & Platforms -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/java.svg" alt="Java" height="48px" /></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/cpp.svg" alt="C++" height="48px" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/csharp.svg" alt="C#" height="48px" /></a>
@@ -147,8 +138,6 @@ Here we build reusable component libraries, CLI utilities, and front-end infrast
   <a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/swift.png" alt="Swift" height="48px" /></a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/kotlin.png" alt="Kotlin" height="48px" /></a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/unity.svg" alt="Unity" height="48px" /></a>
-
-  <!-- DevOps, Cloud & Monitoring -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/git.svg" alt="Git" height="48px" /></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/github.svg" alt="GitHub" height="48px" /></a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/gitlab.svg" alt="GitLab" height="48px" /></a>
@@ -162,15 +151,11 @@ Here we build reusable component libraries, CLI utilities, and front-end infrast
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/netlify.svg" alt="Netlify" height="48px" /></a>
   <a href="https://newrelic.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/newrelic.svg" alt="New Relic" height="48px" /></a>
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/splunk.svg" alt="Splunk" height="48px" /></a>
-
-  <!-- Testing -->
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/jest.svg" alt="Jest" height="48px" /></a>
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/playwright.svg" alt="Playwright" height="48px" /></a>
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/cypress.svg" alt="Cypress" height="48px" /></a>
   <a href="https://webdriver.io/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/webdriverio.svg" alt="WebdriverIO" height="48px" /></a>
   <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/vitest.png" alt="Vitest" height="48px" /></a>
-
-  <!-- Design & Creative -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/figma.svg" alt="Figma" height="48px" /></a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/blender.svg" alt="Blender" height="48px" /></a>
   <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/asperite.svg" alt="Aseprite" height="48px" /></a>
@@ -180,8 +165,6 @@ Here we build reusable component libraries, CLI utilities, and front-end infrast
   <a href="https://www.adobe.com/pl/products/premiere/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/adobe-premiere.svg" alt="Adobe Premiere" height="48px" /></a>
   <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/davinci.svg" alt="DaVinci Resolve" height="48px" /></a>
   <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/svg/gimp.svg" alt="GIMP" height="48px" /></a>
-
-  <!-- AI Tools -->
   <a href="https://openai.com/api/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/open-api.png" alt="OpenAI API" height="48px" /></a>
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="./assets/skills/png/github-copilot.png" alt="GitHub Copilot" height="48px" /></a>
   <a href="https://cursor.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/png/cursor.png" alt="Cursor" height="48px" /></a>
