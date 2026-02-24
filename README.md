@@ -30,10 +30,10 @@ Each solution is engineered for scalability, performance, and seamless integrati
     <img width="77" align="center" src="./assets/aristobyte-ui-cli.png" alt="AristoByte UI CLI - NPM" />
   </a>
   <a href="https://open-vsx.org/extension/aristobyte/aristo-theme-vscode-color-theme" target="_blank">
-    <img width="77" align="center" src="./assets/aristo-theme.png" alt="AristoTheme - AristoByte Color Theme (for VS Code)" />
+    <img width="100" align="center" src="./assets/aristo-theme.png" alt="AristoTheme - AristoByte Color Theme (for VS Code)" />
   </a>
   <a href="https://dev.azure.com/aristobyte/" target="_blank">
-    <img width="77" align="center" src="./assets/aristobyte-dev-ops.png" alt="AristoByt DevOps - Azure" />
+    <img width="100" align="center" src="./assets/aristobyte-dev-ops.png" alt="AristoByt DevOps - Azure" />
   </a>
 </p>
 
